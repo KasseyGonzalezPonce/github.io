@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Pagina 2</title>
+   </head>
+   <body>
+     <h1>Pagina prinipal</h1>
+     <a href="pagina1.html">Ir a pagina principal</a>
+   </body>
+ </html>
