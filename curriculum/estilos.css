@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+header p{
+    color: darkgray;
+}
+section{
+    margin-bottom: 25px;
+}
+h1{
+    color: darkblue;
+    border-bottom: 1px solid #ccc;
+} 
